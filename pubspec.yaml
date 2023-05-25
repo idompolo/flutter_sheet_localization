@@ -4,8 +4,8 @@ version: 5.1.1
 homepage: https://github.com/aloisdeniel/flutter_sheet_localization
 
 environment:
-  sdk: '>=2.10.0 <3.0.0'
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
-  intl: 
+  intl: ^0.17.0
   template_string: ^0.6.0
